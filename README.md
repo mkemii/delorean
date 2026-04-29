@@ -1,6 +1,6 @@
 # Il contabile da Taschino
 
-TEAM: BARB. ETP <br>
+TEAM: Daniel Company <br>
 MEMBRI: 
 EMIDEV (BOSS)
 IVANO (SECONDO IN COMANDO)
