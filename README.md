@@ -1,6 +1,6 @@
 # Il contabile da Taschino
 
-TEAM: Device Company <br>
+TEAM: Daniel Company <br>
 MEMBRI: 
 EMIDEV (BOSS)
 IVANO (SECONDO IN COMANDO)
